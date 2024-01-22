@@ -1,2 +1,8 @@
-# python
- Python fundamentos e exercícios
+# Python
+
+**Conteúdo**
+
+- Exercícios em Python
+
+## Objetivo
+Ser utilizado para estudo.
